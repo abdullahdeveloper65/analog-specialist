@@ -1,0 +1,35 @@
+#headings {
+    text-align: center;
+    line-height: 1px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul {
+    border-top: black solid;
+    display: flex;
+    gap: 35px;
+    letter-spacing: 2px;
+    list-style-type: none;
+    line-height: 50px;
+    margin-left: 30%;
+    width: 500px;
+    margin: auto 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: black solid;
+    
+}
+#id1{
+    color: red;
+}
+#img{
+    margin: auto 548px;
+}
+p{
+    text-align: center;
+}
+h5{
+    font-size: 15px;
+    color:brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
